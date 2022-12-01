@@ -18,4 +18,7 @@ apt update ; apt install git curl -y ; git clone https://github.com/OhmGun/Cari-
 <br>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/12862916/204970184-d2ad243c-a4b1-46ae-b170-1808ebc231b9.png"/>
+  
+  
+  ### <<< If you copy this Code, Then Give me The Credits !!! ###
 
